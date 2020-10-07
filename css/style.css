@@ -102,6 +102,7 @@ a:hover {
 }
 .lead {
     font-size: x-large;
+    text-align: center;
 }
 .carousel-img {
     width: 50%;
