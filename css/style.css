@@ -109,3 +109,10 @@ a:hover {
     height: auto;
     margin: auto;
 }
+@media screen and (max-width: 600px) {
+    .carousel-img {
+        width: 70%;
+        height: auto;
+        margin: auto;
+    }
+  }
