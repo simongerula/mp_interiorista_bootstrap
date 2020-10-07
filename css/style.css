@@ -1,0 +1,110 @@
+body {
+    color: black;
+    font-family: 'Crimson Text', serif;
+    font-size: x-large;
+}
+.footer {
+    background-color: rgb(234, 228, 210);
+    color: black;
+}
+.btn-outline-light {
+    color: black;
+    border-color: black;
+}
+.copyright {
+    background-color: rgb(218, 207, 175);
+    color: black !important;
+}
+.bg-secondary {
+    background-color: rgba(220, 210, 211, .65);
+}
+.bg-primary {
+    background-image: linear-gradient(rgba(232, 220, 213,.55),rgba(232, 220, 213,.55)), url(https://i.imgur.com/KFl0j2h.jpeg);
+    background-size: cover; 
+    background-position: center;
+}
+.navbar-brand img {
+    max-width: 17rem;
+}
+.nav-link {
+    font-family: 'Crimson Text', serif;
+    color: black !important;
+    font-size: x-large;
+}
+.nav-link:hover {
+    color: white !important;
+}
+.nav-link.active {
+    color: #fff;
+    background: rgba(220, 210, 211, .9) !important;
+}
+.masthead {
+    padding-top: calc(2rem + 104px);
+}
+.masthead .masthead-subheading {
+    font-size: x-large;
+}
+.divider-dark {
+    color: black !important;
+}
+.divider-custom .divider-custom-icon {
+    color: black !important;
+}
+.divider-custom .divider-custom-line {
+    color: black !important;
+    border-color: black !important;
+    background-color: black !important;
+}
+header .pre-wrap {
+    background-color:  rgba(220, 210, 211, .8);
+    width: 75%;
+    border-radius: 25px;
+}
+#about .row .col-lg-4 {
+    background-color:  rgba(220, 210, 211, .8);
+    padding: 3%;
+}
+.icon-contact {
+    background-color: rgb(218, 207, 175);
+}
+a {
+    color: black;
+}
+a:hover {
+    color: rgb(218, 207, 175);
+}
+.portfolio .portfolio-item .portfolio-item-caption {
+    background-color: rgba(218, 207, 175,.85);
+}
+.masthead-heading, .page-section-heading, .mb-4, .portfolio-modal-title {
+    font-family: 'Crimson Text', serif;
+}
+.portfolio-modal .btn {
+    color: black;
+    background-color: rgb(218, 207, 175);
+    border-color: rgb(218, 207, 175);
+}
+.portfolio-modal .btn:hover {
+    color: black;
+    background-color: white;
+}
+.svg-inline--fa {
+    color: black;
+}
+#dwld a {
+    font-weight: bold;
+    background-color: rgba(218, 207, 175, .4);
+}
+#dwld a:hover {
+    background-color: rgb(218, 207, 175);
+    border-color: white;
+    color: black;
+}
+.lead {
+    font-size: x-large;
+}
+.carousel-img {
+    width: 50%;
+    height: auto;
+    margin: auto;
+}
