@@ -61,7 +61,7 @@ header .pre-wrap {
     border-radius: 25px;
 }
 #about .row .col-lg-4 {
-    background-color:  rgba(220, 210, 211, .8);
+    background-color:  rgba(220, 210, 211, .9);
     padding: 3%;
 }
 .icon-contact {
@@ -93,7 +93,9 @@ a:hover {
 }
 #dwld a {
     font-weight: bold;
-    background-color: rgba(218, 207, 175, .4);
+    background-color: rgba(218, 207, 175, .8);
+    color: black;
+    font-size: x-large;
 }
 #dwld a:hover {
     background-color: rgb(218, 207, 175);
